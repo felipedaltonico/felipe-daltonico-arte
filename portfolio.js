@@ -1,1 +1,0 @@
-﻿window.PORTFOLIO_IMAGES = ["portfolio/amigos.png","portfolio/anime busto.png","portfolio/cartoon.png","portfolio/design de personagem.png","portfolio/hero.png","portfolio/live.png","portfolio/old.png","portfolio/olhe pro céu.png","portfolio/pose.png","portfolio/radioativo.png","portfolio/rpg.png","portfolio/show toon.png"];
